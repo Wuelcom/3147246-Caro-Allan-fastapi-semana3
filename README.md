@@ -1,10 +1,10 @@
 # Mi Primera API FastAPI - Bootcamp
 
-**👤 Desarrollador**: Allan Duvan Caro Castillo
+**👤 Desarrollador**: allan duvan caro castillo
 **📧 Email**: Wuelcom@users.noreply.github.com.
-**� Privacidad**: Email configurado según mejores prácticas de GitHub
-**�📅 Fecha de creación**: 2025-08-13 13:21:59
-**📂 Ruta del proyecto**: /c/Users/Aprendiz/desarrollo-personal/tu-nombre-apellido-bootcamp/mi-primera-api-fastapi
+**  Privacidad**: Email configurado según mejores prácticas de GitHub
+** 📅 Fecha de creación**: 2025-08-13 13:56:39
+**📂 Ruta del proyecto**: /c/Users/Aprendiz/desarrollo-personal/allan-caro-bootcamp/mi-primera-api-fastapi
 **💻 Equipo de trabajo**: BOGDFPCGMP5717
 
 ## 🔧 Configuración Local
