@@ -3,7 +3,7 @@
 **👤 Desarrollador**: allan duvan caro castillo
 **📧 Email**: Wuelcom@users.noreply.github.com.
 **  Privacidad**: Email configurado según mejores prácticas de GitHub
-** 📅 Fecha de creación**: 2025-08-13 13:56:39
+** 📅 Fecha de creación**: 2025-08-23 15:01:10
 **📂 Ruta del proyecto**: /c/Users/Aprendiz/desarrollo-personal/allan-caro-bootcamp/mi-primera-api-fastapi
 **💻 Equipo de trabajo**: BOGDFPCGMP5717
 
@@ -42,23 +42,4 @@ uvicorn main:app --reload --port 8000
 - Si hay conflictos de puerto: cambiar --port en uvicorn
 - Si Git no funciona: verificar `git config user.name` y `git config user.email`
 - Si necesitas cambiar el email: usar el email privado de GitHub desde Settings → Emails
-
-## ¿Qué hace?
-
-API mejorada con validación automática de datos y type hints.
-
-## Nuevos Features (Semana 2)
-
-- ✅ Type hints en todas las funciones
-- ✅ Validación automática con Pydantic
-- ✅ Endpoint POST para crear datos
-- ✅ Parámetros de ruta (ejemplo: /products/{id})
-- ✅ Búsqueda con parámetros query
-
-## ¿Cómo ejecutar?
-
-```bash
-pip install fastapi pydantic uvicorn
-uvicorn main:app --reload
-```
 
